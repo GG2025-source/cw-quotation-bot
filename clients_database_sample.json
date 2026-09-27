@@ -1,0 +1,38 @@
+{
+  "Wai Luen": {
+    "aliases": [
+      "金城",
+      "wai luen"
+    ],
+    "default_attention": "Mr. Philip Diaz",
+    "emails": [
+      "philip@wailuen.com"
+    ],
+    "quotations_count": 68,
+    "avg_price": 6200
+  },
+  "CRCC-PY JV": {
+    "aliases": [
+      "中交",
+      "CRCC"
+    ],
+    "default_attention": "Mr. Anthony Lee",
+    "emails": [
+      "anthony@crcc.com"
+    ],
+    "quotations_count": 36,
+    "avg_price": 18500
+  },
+  "Sinohydro": {
+    "aliases": [
+      "中水",
+      "中水電"
+    ],
+    "default_attention": "Mr. Jacky Heung",
+    "emails": [
+      "jacky@sinohydro.com"
+    ],
+    "quotations_count": 17,
+    "avg_price": 12000
+  }
+}
